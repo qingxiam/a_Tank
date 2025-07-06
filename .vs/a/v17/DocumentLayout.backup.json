@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\XMU\\SE\\Code\\a\\",
+  "WorkspaceRootPath": "E:\\XMU\\SE\\Code\\a_Tank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{779AF79F-CBE7-4433-BC92-D80D6F48CC2D}|a.vcxproj|E:\\XMU\\SE\\Code\\a\\a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{779AF79F-CBE7-4433-BC92-D80D6F48CC2D}|a.vcxproj|E:\\XMU\\SE\\Code\\a_Tank\\a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{779AF79F-CBE7-4433-BC92-D80D6F48CC2D}|a.vcxproj|solutionrelative:a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\XMU\\SE\\Code\\a_Tank\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\XMU\\SE\\Code\\a_Tank\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\XMU\\SE\\Code\\a_Tank\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-03T08:05:23.327Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "a.cpp",
-              "DocumentMoniker": "E:\\XMU\\SE\\Code\\a\\a.cpp",
+              "DocumentMoniker": "E:\\XMU\\SE\\Code\\a_Tank\\a.cpp",
               "RelativeDocumentMoniker": "a.cpp",
-              "ToolTip": "E:\\XMU\\SE\\Code\\a\\a.cpp",
+              "ToolTip": "E:\\XMU\\SE\\Code\\a_Tank\\a.cpp",
               "RelativeToolTip": "a.cpp",
-              "ViewState": "AgIAADsBAAAAAAAAAAAswFoBAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAHAGAAAAAAAAAAAowHsGAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-01T12:21:35.036Z",
               "EditorCaption": ""
